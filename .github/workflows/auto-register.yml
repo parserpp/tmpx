@@ -1,0 +1,77 @@
+name: RegisterCI
+
+on:
+  schedule:
+    # GitHub schedule 可能延迟，避开整点热点分钟更稳定（仍是每5分钟）
+    - cron: '2-59/5 * * * *'
+  workflow_dispatch:  # 允许手动触发
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'account/**'   # 方案一：忽略 token 文件夹的变动，防止死循环
+
+permissions:
+  contents: write
+
+jobs:
+  register:
+    # push 事件下，CI/bot 自己的提交不执行，避免自触发循环
+    if: ${{ github.event_name != 'push' || github.actor != 'github-actions[bot]' }}
+    concurrency:
+      group: registerci_group
+      cancel-in-progress: false # 方案二：确保任务排队（串行），不杀掉老的
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Create account directory
+        run: mkdir -p account
+
+      - name: Run registration (15 accounts)
+        shell: bash
+        env:
+          PROXY: ${{ secrets.PROXY }}
+        run: |
+          # python register.py --count 50 --once --proxy "$PROXY"
+          python register.py --count 50 --once
+        continue-on-error: true
+
+      - name: Check for new tokens
+        id: check
+        run: |
+          count=$(ls -1 account/token_*.json 2>/dev/null | wc -l)
+          echo "token_count=$count" >> $GITHUB_OUTPUT
+          echo "Found $count token files"
+
+      - name: Commit new tokens
+        if: ${{ fromJSON(steps.check.outputs.token_count) > 0 }}
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add account/
+          if git diff --staged --quiet; then
+            echo "No staged changes to commit."
+            exit 0
+          fi
+
+          # 双重保险：提交信息带上 [skip ci]，防止同仓库其他 workflow 被再次触发
+          git commit -m "Add new account tokens [skip ci] - $(date '+%Y-%m-%d %H:%M')"
+
+          # push 前先同步最新 main，降低并发任务导致的非快进失败概率
+          git pull --rebase origin main
+          git push origin HEAD:main
