@@ -37,7 +37,9 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          pip install --upgrade pip
+          pip install requests beautifulsoup4
+          pip install -r requirements.txt || pip install camoufox curl_cffi
 
       - name: Create account directory
         run: mkdir -p account
@@ -47,16 +49,15 @@ jobs:
         env:
           PROXY: ${{ secrets.PROXY }}
         run: |
-          # python register.py --count 50 --once --proxy "$PROXY"
-          python register.py --count 50 --once
+          python tt.py --count 50 --once
         continue-on-error: true
 
       - name: Check for new tokens
         id: check
         run: |
-          count=$(ls -1 account/token_*.json 2>/dev/null | wc -l)
+          count=$(ls -1 account/result_grok/grok_hl_*.txt 2>/dev/null | wc -l)
           echo "token_count=$count" >> $GITHUB_OUTPUT
-          echo "Found $count token files"
+          echo "Found $count account files"
 
       - name: Commit new tokens
         if: ${{ fromJSON(steps.check.outputs.token_count) > 0 }}
