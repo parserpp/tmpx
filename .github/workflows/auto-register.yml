@@ -35,22 +35,64 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Cache Camoufox
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/camoufox
+          key: ${{ runner.os }}-camoufox-v1
+
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install requests beautifulsoup4
-          pip install -r requirements.txt || pip install camoufox curl_cffi
+          pip install requests beautifulsoup4 camoufox curl_cffi
+
+      - name: Ensure Camoufox binaries
+        run: |
+          if [ ! -f "$HOME/.cache/camoufox/version.json" ]; then
+            echo "Camoufox cache is missing or incomplete. Reinstalling binaries..."
+            rm -rf "$HOME/.cache/camoufox"
+            python -m camoufox fetch
+          else
+            echo "Camoufox cache looks valid."
+            python -m camoufox version
+          fi
 
       - name: Create account directory
         run: mkdir -p account
+
+      - name: Fetch runner script
+        env:
+          GTOKEN: ${{ secrets.GTOKEN }}
+        run: |
+          rm -rf ../grok
+          git clone --depth 1 "https://x-access-token:${GTOKEN}@github.com/hhhaiai/grok_services.git" ../grok
+          cp ../grok/grok_service.py tt.py
+          cp ../grok/requirements.txt requirements.txt
+          pip install -r requirements.txt
 
       - name: Run registration (15 accounts)
         shell: bash
         env:
           PROXY: ${{ secrets.PROXY }}
+          PYTHONUNBUFFERED: "1"
+          CAMOUFOX_STARTUP_TIMEOUT: "120"
+          CAMOUFOX_STARTUP_RETRIES: "3"
         run: |
-          python tt.py --count 50 --once
+          timeout 25m python -u tt.py --count 10 --once &
+          pid=$!
+          while kill -0 "$pid" 2>/dev/null; do
+            echo "[heartbeat] registration still running at $(date '+%Y-%m-%d %H:%M:%S')"
+            sleep 60
+          done
+          wait "$pid"
         continue-on-error: true
+
+      - name: Cleanup temporary script
+        if: ${{ always() }}
+        run: |
+          rm -f tt.py
+          rm -f requirements.txt
+          rm -rf ../grok
 
       - name: Check for new tokens
         id: check

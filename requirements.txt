@@ -1,4 +1,0 @@
-curl_cffi
-camoufox
-requests
-beautifulsoup4
