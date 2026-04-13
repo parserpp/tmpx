@@ -66,8 +66,8 @@ jobs:
         run: |
           rm -rf ../grok
           git clone --depth 1 "https://oauth2:${{ secrets.GTOKEN }}@github.com/hhhaiai/grok_services.git" ../grok
-          cp ../grok/grok_service.py tt.py
-          cp ../grok/requirements.txt requirements.txt
+          cp ../grok/onekey/server.py tt.py
+          cp ../grok/onekey/requirements.txt requirements.txt
           pip install -r requirements.txt
 
       - name: Run registration (15 accounts)
