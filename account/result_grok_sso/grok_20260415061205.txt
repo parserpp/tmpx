@@ -1,0 +1,24 @@
+Email: fin7lz4g5p74@deltajohnsons.com
+Password: !1@vnKiP3GVV#9
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZmJkMzZhNTctNjRkMC00MTQwLTlkODUtNWYwYTQyOWRkNTM0In0.c4pe8c8wet1zqNzMsdRagkqm13bO9dg2YS4_mnycIxc
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZmJkMzZhNTctNjRkMC00MTQwLTlkODUtNWYwYTQyOWRkNTM0In0.c4pe8c8wet1zqNzMsdRagkqm13bO9dg2YS4_mnycIxc
+X-USERID: fbd36a57-64d0-4140-9d85-5f0a429dd534
+CF-CLEARANCE: oOLmSUzmgA.5OsyUfc.lBAL.D1iDI3.QLaAjwKgEdgI-1776204755-1.2.1.1-VZ8_nNw34oFh3d875K74KSHHzXDAU4OnxvpUWOufBG5SloDtTBC2y6FyAxIS.1QUqCV_pSrkSiUDhBLgxOMWyTwpIJwCLRYtEixu1jV0XG1ZAgdMG1n3CQn3J_qhjdF..vVNMo2NSW6PuvL90gfcHc04wm618RPVKl_lE8A66vYDfuo457LEuUP40U9LKCE7b3hRKxROHi4hpnCWMhdIr0ngLEjkHEQd6POVuWQzVWdH1YPeTVYnUVEcJOLn3L7J8imZtcTwkF2oG03mmIpmHGuyz2GljSui3gSygs4w9kGW9W7WmMxRwZTkp1mOVV6IY1M66xn_NzrwJtuHff0Rlg
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: browser_state/fin7lz4g5p74_deltajohnsons.com.json
+COOKIES-FILE: browser_state/fin7lz4g5p74_deltajohnsons.com.json
+SESSION-FILE: browser_state/fin7lz4g5p74_deltajohnsons.com.json
+----------------------------------------
+Email: foy0p2f35tih@deltajohnsons.com
+Password: oubn9A*L6vsr@Z
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMWZkODRjMmEtNzZmMC00M2JkLTk2NmEtZjQwNzg2MDA4MTU5In0.PA0wiMINpHEhpCw6SNqirXkH_Zi8l4d-SDHdy467IaE
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMWZkODRjMmEtNzZmMC00M2JkLTk2NmEtZjQwNzg2MDA4MTU5In0.PA0wiMINpHEhpCw6SNqirXkH_Zi8l4d-SDHdy467IaE
+X-USERID: 1fd84c2a-76f0-43bd-966a-f40786008159
+CF-CLEARANCE: RcjgLeSplOCIn5zWQkHnvSKNfR1l_gqDjjGFbwSkpWI-1776204790-1.2.1.1-7WzedHGhitGnHr8WxU5P_iJ1nkikaBAu3slUnm5wn5xYq6AKU.db.qRGA3OL5B2OPhy9Wj9nl5yLAFF0f2bxdQCD0PK0Y25YHnc5rNstTCebAftur1qDd8T7s1OgxsMaqyl2kfga.e6DrokOED9GBvRWKS.70AOHiL6W1ecTEZ0s6hrHlsRPklzgDh8dCjQxeA2QHrW.FKPU1txR7T4dJVq4WAIhr3lLhdUzLQTg9P_zuz6v_He26BZXxeJ8D7d3vJ8ob3IsBwhFogHMZ7S79BSXtplApbzjTIYJQjXYwOj78uqVoVqFmOJU6ylnNQ0Oa98qEx9eclvz5t9ITrR0TQ
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: browser_state/foy0p2f35tih_deltajohnsons.com.json
+COOKIES-FILE: browser_state/foy0p2f35tih_deltajohnsons.com.json
+SESSION-FILE: browser_state/foy0p2f35tih_deltajohnsons.com.json
+----------------------------------------
