@@ -97,13 +97,6 @@ jobs:
       - name: Check for new tokens
         id: check
         run: |
-          count=$(ls -1 account/result_grok/grok_hl_*.txt 2>/dev/null | wc -l)
-          echo "token_count=$count" >> $GITHUB_OUTPUT
-          echo "Found $count account files"
-
-      - name: Commit new tokens
-        if: ${{ fromJSON(steps.check.outputs.token_count) > 0 }}
-        run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add account/
