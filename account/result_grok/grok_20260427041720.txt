@@ -1,0 +1,12 @@
+Email: kam7vo537vrw@deltajohnsons.com
+Password: 8Z0Sym@&TN1!9o
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMDQxMmRiY2EtNzA0ZC00YjEwLTlkM2YtYzg3ZDc4NjJiOTIxIn0.VKzB-9RC-AZ3m_1LGBiIfLevHxOoXqmSKHwqQaO6q-E
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMDQxMmRiY2EtNzA0ZC00YjEwLTlkM2YtYzg3ZDc4NjJiOTIxIn0.VKzB-9RC-AZ3m_1LGBiIfLevHxOoXqmSKHwqQaO6q-E
+X-USERID: 0412dbca-704d-4b10-9d3f-c87d7862b921
+CF-CLEARANCE: TXDUH__yudfMHrM_agnRc1er4sksc0kZ36o8I9awwRI-1777234671-1.2.1.1-4H0v3aCmuwPkoEA6PSnz0NEgcUuVFJrMvNX_7tVVErnLJitKioQm0NReOJLkiaBORKw_ify2jR2FwG_uYxdTtPRrYowGO..hUoeGkj9BXKZF9_WDQuImlPN_gUM7i2qJpG3eLrg2uy8ZP7Act3o1GTw3IrpaGlhqMS8zHETx4dIL75EAuBCrKvJW72L4iJmBOACtzBH.VY6szzHIbZDFyG_EC2UjC2VGOjsD6_kLJcqhnZUI.PxBHoy40F3mm5kQ4CLTC.ulVTy5PR_BwfWMdN1ZxrWKN.UDOrlSv38sEslQGp9AjAnirA1rzAjG0cy_dSKkbLmCqA84cSh0j4qhwg
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/kam7vo537vrw_deltajohnsons.com.json
+COOKIES-FILE: account/browser_state/kam7vo537vrw_deltajohnsons.com.json
+SESSION-FILE: account/browser_state/kam7vo537vrw_deltajohnsons.com.json
+----------------------------------------
