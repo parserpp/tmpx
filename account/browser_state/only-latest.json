@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-05-19T08:03:30.896084+00:00",
+  "has_latest": true,
+  "latest": {
+    "email": "",
+    "password": "",
+    "sso": "",
+    "sso_rw": "",
+    "cf_clearance": "",
+    "x_userid": "",
+    "tos_ok": false,
+    "nsfw_ok": false,
+    "profile_dir": "",
+    "indexed_db_file": "",
+    "cookies_file": "",
+    "launch_command": "",
+    "session_file": "/home/runner/work/tmpx/tmpx/account/browser_state/sessions_api.json",
+    "saved_at": ""
+  }
+}
