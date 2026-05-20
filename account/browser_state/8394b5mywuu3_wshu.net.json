@@ -1,0 +1,20 @@
+{
+  "session": {
+    "email": "8394b5mywuu3@wshu.net",
+    "password": "#dquFEL1Sq5sS@",
+    "sso": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiY2E4ZGZlYWUtMTk5MS00ZDYwLThkZjAtNDkwZGNiMmY3YzdkIn0.AhMqTDb3Rn7qiXmCJZuW_-4CqeqdZGIS_StNdM9QVnQ",
+    "sso_rw": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiY2E4ZGZlYWUtMTk5MS00ZDYwLThkZjAtNDkwZGNiMmY3YzdkIn0.AhMqTDb3Rn7qiXmCJZuW_-4CqeqdZGIS_StNdM9QVnQ",
+    "cf_clearance": "E1B9Nc_xAZHwzGHXIlzh_0ZrIcYr_jDm.NbKvrptHoM-1779273515-1.2.1.1-CHxnGn5mNwmJZJ_fgK60JclDlbk3yuMlH7uUga6vJxDpBeFjRtq9hHjy0z1r_kirmpX22DSuu0ryDDxl.1suwLfFaSkLXET3keKwhu7UNqvyNPqAij7AX_NgQayCs7uZDtg4uOC6keFWqr6M7BAh53Ks7B5lt5BKc.5bXQ5nyU_DJwOv4IDRWiREOQD7iKleEerCFEdxViTZ8UqXLQhPXgIK6HJzN2wrpBafVxFrJbXN_YlovHuiviJn7Jev_JPOlak23groORHLolrickDZluvfvRjAwt6wvXpdIG8Mm_tfBwvCrOO2gIbdlTgF0F2b0XbHCEGE.WyhzwCwsaysZQ",
+    "x_userid": "ca8dfeae-1991-4d60-8df0-490dcb2f7c7d",
+    "tos_ok": false,
+    "nsfw_ok": false,
+    "cookie_names": [],
+    "saved_at": "2026-05-20T10:39:30.486353+00:00"
+  },
+  "cookies": [],
+  "indexed_db": {
+    "localStorage": {},
+    "sessionStorage": {},
+    "indexedDB": []
+  }
+}
