@@ -1,0 +1,12 @@
+Email: z0zsobyxywm7@web-library.net
+Password: cVyJ4c7x0@N0pY
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiODVhMjQ5MDEtMDBmNC00YWI0LTljNjMtNTk4YjMwZjk4ZDFlIn0.uqSHMGfh0s_ItjzxvMonvG0wR_LGH20nZi7oIfYAeXk
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiODVhMjQ5MDEtMDBmNC00YWI0LTljNjMtNTk4YjMwZjk4ZDFlIn0.uqSHMGfh0s_ItjzxvMonvG0wR_LGH20nZi7oIfYAeXk
+X-USERID: 85a24901-00f4-4ab4-9c63-598b30f98d1e
+CF-CLEARANCE: 5TcWPZntUnNKyeqeV9Aca.8YYVsJBgeb8LhUd8bwsA0-1780953774-1.2.1.1-eSwffQG3leo8Ywff6_GPNK.BTSEUEghmLI8qGYQTTdUIKW6PacgM5WOCIbDutNEga6M6Ijs9cxft_GF0V6S12F7tvsxxg.G.QBGC_ucAP9tx8QdhJuNhAd.ckyvi5RhDFIl.34EhWG.LrsV_2FWuoSG3qst.H02F8MgGmSLvaY78RBRhrc4pOTskaDP4MoW3ffbsXu65MVTde4o5Fp0CDF3oE1tCG9XzCWkXkqnKbnL_hXEBrjglpdos6kKa56S9eEWUm7EuBV2r9hN0zrXnosiKLgoxwtAh0rqmnHErNbZSgWKMQBQSO37j8M7NZ0Cdc4kZlunmRuBBQH0RxJN5lQ
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/z0zsobyxywm7_web-library.net.json
+COOKIES-FILE: account/browser_state/z0zsobyxywm7_web-library.net.json
+SESSION-FILE: account/browser_state/z0zsobyxywm7_web-library.net.json
+----------------------------------------
