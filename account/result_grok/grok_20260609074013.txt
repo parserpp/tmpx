@@ -1,0 +1,12 @@
+Email: henciccadurg@web-library.net
+Password: &#tViJ9hW2wU$h
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZTc0ZWRjMWUtODg2ZS00NTg5LThkODQtZjk2ZWUyM2FhMDI2In0.mijHqFWIIZkAOywX2Feg9J1RNVrpwl46iuXVVDRHL88
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZTc0ZWRjMWUtODg2ZS00NTg5LThkODQtZjk2ZWUyM2FhMDI2In0.mijHqFWIIZkAOywX2Feg9J1RNVrpwl46iuXVVDRHL88
+X-USERID: e74edc1e-886e-4589-8d84-f96ee23aa026
+CF-CLEARANCE: oNYYY.vyXXvhAJeDpzrTI1wRJ42pf.milNMNjOTC12M-1780962076-1.2.1.1-3wboMZ6xPmdGgVapmqpXV7pGD0CraRu_kFyau1lax4QiLEZ.P4ZaKr64RA27jukjc0EVMSH58cLOC8QGR5uim2bJoW2kCuyOywmYqzThzoVvUL8GBwuZV4klzwOlZf2q4wRWo9oJH7F6ph3L.Bn1sFNMTzWWqRRbDn9SmjK1lfvCOE21gasxwJbmggd7n2vUrk1KUq_oJuH1tF8uh7ApKutRSnOB3kAmgnkrJhlewzcVopmXH6yV4RlX.ngQGtiGL.RMTuW8hcboHWNoPjWpFsDJIfZOYksPaNqKZuugPnpRq6fc8x8gDw2ZMxK1ea6D_eJxZ5ageAeJCkZyXxJEIg
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/henciccadurg_web-library.net.json
+COOKIES-FILE: account/browser_state/henciccadurg_web-library.net.json
+SESSION-FILE: account/browser_state/henciccadurg_web-library.net.json
+----------------------------------------
