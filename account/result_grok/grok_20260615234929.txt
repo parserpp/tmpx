@@ -1,0 +1,12 @@
+Email: pgiri36x3gwg@web-library.net
+Password: mFcX2&&qG2A%HP
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNjI0NzcyOTMtNjQ5YS00NjljLThjODctM2ZmOTExMGVkMDQ2In0.YwjK1Wo02fjX6nUhb98X7vEZeSzM8F6wGoKAya5aUCk
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNjI0NzcyOTMtNjQ5YS00NjljLThjODctM2ZmOTExMGVkMDQ2In0.YwjK1Wo02fjX6nUhb98X7vEZeSzM8F6wGoKAya5aUCk
+X-USERID: 62477293-649a-469c-8c87-3ff9110ed046
+CF-CLEARANCE: OJ2okUVuaRc819RlIr_NwGs6RC3In_sTsb9lhKaO1Ak-1781538620-1.2.1.1-15ccIyJA6H0beUip04hVextCno_B36ELA0dKYob10fagjk_dpi9VAMxV312R9XJo9NoEhmjipdXfXsULkBP35U27GdmQaiLl3tSr_px6.s1.6EbwdTz5vmwkbk8kE9vqaZzZWY2UXMEkvAaNOx_xk8Q7dK7EhXHcb.Q52JWY0EPWUU7Auu53jp_rcOBN9YhXyX4T76oM5sQE65Z1WTeytxqAlG19_fP3cqHxN9GDWtndsNwthmE9T9.6yrYkG1J8vyv43LMmTubH0.VXBY.93sp20f4aQlHT0h52fCTkNCeA_hPhyY9tvAcpVr8peitrL5_uQyqmr6X1hpyZreaptg
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/pgiri36x3gwg_web-library.net.json
+COOKIES-FILE: account/browser_state/pgiri36x3gwg_web-library.net.json
+SESSION-FILE: account/browser_state/pgiri36x3gwg_web-library.net.json
+----------------------------------------
