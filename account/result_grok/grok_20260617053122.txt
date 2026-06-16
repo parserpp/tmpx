@@ -1,0 +1,12 @@
+Email: 2y21otr5pv71@web-library.net
+Password: !WFdie!6I0FcJ%
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiOWEwNmMyOTgtMjQ5MS00MjQxLWI5NmItOWM2MDVlNDFjY2RlIn0.OnLDGq2elJJEJeu_jVTMvQbdSyPg9tzGLEDfX7zLnLM
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiOWEwNmMyOTgtMjQ5MS00MjQxLWI5NmItOWM2MDVlNDFjY2RlIn0.OnLDGq2elJJEJeu_jVTMvQbdSyPg9tzGLEDfX7zLnLM
+X-USERID: 9a06c298-2491-4241-b96b-9c605e41ccde
+CF-CLEARANCE: 8csd73I7x_SQJKt3tYqqsEkma8hRJLauzq79Xk.pizU-1781645521-1.2.1.1-k0i1kbDw8tYDvgi_OrK6pQbzYYuK3X1juUI3wbcVMJxm45nR857QEEcCemoD2J3XS.gGyn3y7naj9z9ZiobPim97WBP3u4nIT3z.T7d.iRmn9.shSw.JMiaPkU2L8Tq5FOEqM1ar_96ru6XQbYLopmvCWyFKUGBE1mSwXx26gwzi6mJ6hH2g7lV1JTBJt_9EZiZjODO0BItF27t7VFOeyUiGoRFtmjFzfBB9Vl4hPVKTbeDFkoal.VbnBW_cC_CqMkCZSaiCJifJdFY7Uc8Y5ry2OiNdByrvaBGuRbcYCfCJdDyXccDsSKp7hxVdt8x1Ev9XhYBg81yCyg79w2caoA
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/2y21otr5pv71_web-library.net.json
+COOKIES-FILE: account/browser_state/2y21otr5pv71_web-library.net.json
+SESSION-FILE: account/browser_state/2y21otr5pv71_web-library.net.json
+----------------------------------------
