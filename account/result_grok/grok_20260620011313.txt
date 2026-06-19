@@ -1,0 +1,12 @@
+Email: 6ghss6oeqsgg@web-library.net
+Password: &DgvKcSKO0YN*a
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYTU3MzBlMDMtM2JhYi00MTM3LThjZDctNzlmOWMwNTA3YTBmIn0.xctNL0TpKyZsvXVMUy504DR2Ir6sRlfspmhfZvru_To
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYTU3MzBlMDMtM2JhYi00MTM3LThjZDctNzlmOWMwNTA3YTBmIn0.xctNL0TpKyZsvXVMUy504DR2Ir6sRlfspmhfZvru_To
+X-USERID: a5730e03-3bab-4137-8cd7-79f9c0507a0f
+CF-CLEARANCE: n7OVd2XBr6RNjYZvFS2O6SiM0x9hffPPKRT5G.iPjuM-1781889227-1.2.1.1-JyTzrhPb0KlQevQdqVGQTar_olzQdine_r.UtfwwcN_4wgpQTbHRbJUohneTsMtCUEmqRDUpcaLcFS_qwt1AIsNbXQlvURDFcknf4nZBQt3bjGNt.I6AQ2E0WKWBGDhoJiim0pnhMkx.PJh5xjzRsh.ngNMlVdU6qItyuHPt8gG_i8cJuUtDMYSaTYoVA7VYvHSGGw_27SOeUGX.IoTSHiw5CdyCSoNS7GTkFHOFNOd4YSYgfnxqOCmmZ4Mcl3x2wMkWv9pJNkMCMh6EmCsijskWHvDwaLuTl2UzdJdJ1QCVnRjiGU22kxYU8VzdPVFB7JQl9k7WZYeG4C2EZ5Kqgg
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/6ghss6oeqsgg_web-library.net.json
+COOKIES-FILE: account/browser_state/6ghss6oeqsgg_web-library.net.json
+SESSION-FILE: account/browser_state/6ghss6oeqsgg_web-library.net.json
+----------------------------------------
