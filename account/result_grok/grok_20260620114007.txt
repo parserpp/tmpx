@@ -1,0 +1,12 @@
+Email: zzxxv9tqibqg@web-library.net
+Password: 3%GAFgT1sO#oQm
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNjYzMmQ4ZWMtYmQxOS00MGEwLTllMTQtMGQ0ZTc5ZjgwMGQ0In0.rTZsXRfgDEPdmCDivfA0Qb4erVbwvbQfPYqMifqf1bA
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNjYzMmQ4ZWMtYmQxOS00MGEwLTllMTQtMGQ0ZTc5ZjgwMGQ0In0.rTZsXRfgDEPdmCDivfA0Qb4erVbwvbQfPYqMifqf1bA
+X-USERID: 6632d8ec-bd19-40a0-9e14-0d4e79f800d4
+CF-CLEARANCE: .fAytFazvUgIuTyAThuGG0nEp6..KaB92VypgsVDXKA-1781926838-1.2.1.1-Pb4Z4SH7hxtiYPvxi1eIZ1JcqkZYZRQLbMu1Dtot1ygKT.rD_QoNKFIn3yEnh43kI2D6PbDjzae5lo6Mjshx1_5OpwyjpMwpCNSr4luvrnMhhsYd9_FkCQpuE6RIucq39BWTVdlmc.XieGneSBm_pgJE91GpFIJtqibQq.Z1ZZL7GUSAXAFkww1Cv_YRj4KhqZTVEDMBWmz9.8vfRRCoX8k1a9VyGgz_GPfnsthmil9_tuLP6eASU83chTY0xyywurP5rt64OsTnJBSztiNQTCutqo49fEL9TWxPJ3SVRyndskHTJaUoU8.TB1KX84SsFoU6LU3rdpviBn6mnNSc.g
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/zzxxv9tqibqg_web-library.net.json
+COOKIES-FILE: account/browser_state/zzxxv9tqibqg_web-library.net.json
+SESSION-FILE: account/browser_state/zzxxv9tqibqg_web-library.net.json
+----------------------------------------
