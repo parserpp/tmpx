@@ -1,0 +1,12 @@
+Email: ceuzyk9wq0h3@web-library.net
+Password: @t6j0K3HegPih1
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiY2JlYjgyYjgtNDMxNi00OTg2LTk1NjYtOWM0OWNmOTViYWVjIn0.L7t1xwOpy90870NdcauybYt3-EDaKF1aHTQecrZ_5i4
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiY2JlYjgyYjgtNDMxNi00OTg2LTk1NjYtOWM0OWNmOTViYWVjIn0.L7t1xwOpy90870NdcauybYt3-EDaKF1aHTQecrZ_5i4
+X-USERID: cbeb82b8-4316-4986-9566-9c49cf95baec
+CF-CLEARANCE: YDr6C3uxloX_nYyr_PkI_4zdwM8DbvtYk6wZ92lLdKA-1782143426-1.2.1.1-0Akz6K.GFsRQrVMxwQPLhW7iVcwhqsXAXB76oZcSiMVzV3BZ7EsFxE_8pKzso9fzgxOkv97dpbZQPBL5ichT_OBAJa4Z0E23ODbafyxMNO4CDkRB81BqwgMFaF2VJ5cLlbehOva42wAzVjtN_hRMn2G0jDiPktJ8U2ouG5.Fudyp0aZKnRsT9MRNM6an9YypNWBLaFA1m815QSgRozdImBFX65SOYrAACM3LLprGvXXknXEMnbj8lDdGggegN6Kd1w_MJ1n1UjIQdWM.1e.UBndnC1FBo_nFd_ti_6.LDzDK75VCtgMqallDqhi6rBW8CmDqE7b67CA9UNdoeok3xQ
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/ceuzyk9wq0h3_web-library.net.json
+COOKIES-FILE: account/browser_state/ceuzyk9wq0h3_web-library.net.json
+SESSION-FILE: account/browser_state/ceuzyk9wq0h3_web-library.net.json
+----------------------------------------
