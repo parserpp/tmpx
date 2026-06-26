@@ -1,0 +1,12 @@
+Email: om9dl23ojxl5@web-library.net
+Password: %YI2yh3auk#VPt
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNTQ4MGI3MjctOGQ0My00MzE0LWI5YmYtNGQ4NzZhOWMyMTcwIn0.Gk38vez8EgM9bpqT4qXhlo2GqXaLKQiz5-9qWwCa2ME
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNTQ4MGI3MjctOGQ0My00MzE0LWI5YmYtNGQ4NzZhOWMyMTcwIn0.Gk38vez8EgM9bpqT4qXhlo2GqXaLKQiz5-9qWwCa2ME
+X-USERID: 5480b727-8d43-4314-b9bf-4d876a9c2170
+CF-CLEARANCE: 0zPCdLvAXPHTmqyv7tsBow2xA5AKvDuwMIZXN8pNOzw-1782467958-1.2.1.1-Ds2dFKutfT0fJSWn1RbHBrTU.m1tCLQaiLswaW0cwOIoDm3MPYxhEOcaJsag8o5FCqXg0WIAf9ch9Y0KqprdOrpBTIvFetAUnvAXiliv5wVA1AhmoNit8V4jTdhEhSSpCzLhdNqFRO7CFASUmVw9aN.oAEGrQ7F_._i5ogIqphVnUNpYhDE8fBruK7imOaFM7iGlLjq1e_1PrsPJDVcbo70ack6vMzMGtR.S5Mxkf31A7b3Xic9TBAcQu7kPH_a0jjih6twPRIzPe.cts3sNFEqy03n2PM7YQiNJeJOkuVI5EBBSvSmMvSnMWCUbHTdFdLlK9DoChw66P.gJhmhxQA
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/om9dl23ojxl5_web-library.net.json
+COOKIES-FILE: account/browser_state/om9dl23ojxl5_web-library.net.json
+SESSION-FILE: account/browser_state/om9dl23ojxl5_web-library.net.json
+----------------------------------------
