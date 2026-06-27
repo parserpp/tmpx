@@ -1,0 +1,12 @@
+Email: ch6zs6slz07h@web-library.net
+Password: 8B4l%s9vL4dER8
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMTBlOWRlMmMtOGEyZS00YTM1LWE4MGItMDA0OWIwMmU0YjQ0In0.ISUcE7LPb-IWMCP4MSIZyq6g-2LSQfBtFk1zjQ_WcZw
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMTBlOWRlMmMtOGEyZS00YTM1LWE4MGItMDA0OWIwMmU0YjQ0In0.ISUcE7LPb-IWMCP4MSIZyq6g-2LSQfBtFk1zjQ_WcZw
+X-USERID: 10e9de2c-8a2e-4a35-a80b-0049b02e4b44
+CF-CLEARANCE: HhzGs6kW9FENUFWsuoAFR8ssL0MTsOPMGxvFELIkWWg-1782531135-1.2.1.1-3vAr_UjfwkfMgCc9Jop1juZ403YRLW9jkwYnCItdIivDnkwJQIX3DncqZFWNpoheWwKjrmzJI0WxOSuRdl4W8utI7lI1A0.U3zHoiNGhj838djO6KBxB4jWh8mhTgjI70E9C7EHXRJh1_H4F4ZoZvb8A1GjYR_XvmIx0HdpRUG5VxG37g_8s54.g_slu8e3ot1RngpQldC3ZV0mLE1v1UPlq20VVBqyzViLdrMTSPQufNVM7rrE4ZnhCpwbMLbhEKxme4Nj.YqWHusCW645hsE3q1xghjqPnxR6UR2CsTUc.5r31NGuxFBEqQC2OmA3AC1G42FDQH1JZUo1FlQAalQ
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/ch6zs6slz07h_web-library.net.json
+COOKIES-FILE: account/browser_state/ch6zs6slz07h_web-library.net.json
+SESSION-FILE: account/browser_state/ch6zs6slz07h_web-library.net.json
+----------------------------------------
