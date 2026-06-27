@@ -1,0 +1,12 @@
+Email: mvv2uwzmxrip@web-library.net
+Password: 1s5MmqLH%*AKG&
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNjZmZDAzOTYtODIxYS00NTg2LTg3OTAtMjQ0YTg0MGM5ODMwIn0.ORW4wjes5G4xZedfASqwq-npOPhexoaPF6aIbpkmmUA
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNjZmZDAzOTYtODIxYS00NTg2LTg3OTAtMjQ0YTg0MGM5ODMwIn0.ORW4wjes5G4xZedfASqwq-npOPhexoaPF6aIbpkmmUA
+X-USERID: 66fd0396-821a-4586-8790-244a840c9830
+CF-CLEARANCE: wYBl7bagmdfFhNPKmMHdK5QDShG3MRQCyKKmsHVJrCU-1782525043-1.2.1.1-4kfh1AKgvH1eEBPasl31ljnS2cS.qLf29r3cK5E0L7hdpH_FOonrePJ9kWZ292rPOSsTqSAqCjLi90G5uCPwWSoAqBVzQN5mMo5lYhiPHo50cYKlRhyAXuSX_ieQz4QqxIo8ry1TS7hehZYa0NMaPNMCR7U8e49FJiDRuV7XrmvOw_v4Bl8.SFfE48k2KKg3ivXCqbPbqHr7goAKQ.M9.xHfWTz4j8cBsaR5OFNhD0t8rjIebC9K1P6AdXYJkL3aDA4Kru.ZLZHXyWoxdvsZ3PrhyINp64BKnh1n2k19.pVBcpp8OExntwAACtLkHQZtvYwXTw1LGEJ0mC81l9ZD.Q
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/mvv2uwzmxrip_web-library.net.json
+COOKIES-FILE: account/browser_state/mvv2uwzmxrip_web-library.net.json
+SESSION-FILE: account/browser_state/mvv2uwzmxrip_web-library.net.json
+----------------------------------------
