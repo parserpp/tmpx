@@ -1,0 +1,12 @@
+Email: amp5lmiig40d@web-library.net
+Password: M4SigSKbWIv!Rv
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYTFhZjM4NDUtNzVmMy00MGZiLTg5YmQtMGM5ODdkYTEzYzY2In0.E-EB-EDiuuy6OwWhDZUtr2iSOj_dx4OsfxmOMb14xBE
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiYTFhZjM4NDUtNzVmMy00MGZiLTg5YmQtMGM5ODdkYTEzYzY2In0.E-EB-EDiuuy6OwWhDZUtr2iSOj_dx4OsfxmOMb14xBE
+X-USERID: a1af3845-75f3-40fb-89bd-0c987da13c66
+CF-CLEARANCE: JFQDAsME1szI7hSHbX0WaTSnzJ2mwTOQd7FLoT82pAo-1782705933-1.2.1.1-BRqUlqHe03vV8fJV5ZZi4L20UQb0oPCHsR_Qvy4Noqvk34dh6e0NmPKWnBOdSFK_YKN4Jshi0I5T4A5CRtqOnk44JWDfyrH_QYsZHOQ2qQjfIfV35kvCP_ZVyL5Txtrmj9ZIc8KS7eyyYUvuBdq1GmIPJ5P1oRJgfqYcOlv29M1fOMB.DwMvmSl.N0DXUj38z3pKqq4eDaKPOwaSKHd9gxOK8ynXZa7mcBdrl6.l4z8qNAZMPIFK0Xl7W8dlf7tqtfsTjhsiadHxj2wyfh5LCKXisoT.Bjr7BybXTRTL_O3Zpl0gMFgIUTgX2TEhUIlJpi3qSzjzjrH1j.czfELhhA
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/amp5lmiig40d_web-library.net.json
+COOKIES-FILE: account/browser_state/amp5lmiig40d_web-library.net.json
+SESSION-FILE: account/browser_state/amp5lmiig40d_web-library.net.json
+----------------------------------------
