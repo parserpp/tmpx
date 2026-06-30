@@ -1,0 +1,12 @@
+Email: cbkfw5lf0x3h@web-library.net
+Password: Gv3GIJv$N#0*$Z
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNzliNDllMzEtMDc4NS00NGEyLTk1ZmYtMjlhYmY0NzMxNmE5In0.8vFeN3GORfsKlvt0CEWELwuhhEljXFWfQMcu6Mrb_bY
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNzliNDllMzEtMDc4NS00NGEyLTk1ZmYtMjlhYmY0NzMxNmE5In0.8vFeN3GORfsKlvt0CEWELwuhhEljXFWfQMcu6Mrb_bY
+X-USERID: 79b49e31-0785-44a2-95ff-29abf47316a9
+CF-CLEARANCE: O0Aqj8qf.GIMCZmKBDA3veXw5HWtHlXL7zbq8XI5_E0-1782849960-1.2.1.1-34KA67OEqEqtApJfbzAib093A3JxOowfyUn_Mr2NxOSVC0a.esTNfTmS4KZMEMFEbwXkK5LUPqJ29EJSxNbdsK0efAaIQ_AfccZUc60XYt.gyzhSBNy3NlNaH4jDQh8HhvGCHR7NT4HnLmyk_GILoyXgrXrneN0EH9LnhDyl_eWbiksHgD3B_ZwEFyP5uvkUV4TQ9gk_YHiYEB._G9Df.QaWOE9F2jW37wYpwrnlhs2bsBXr.AJMvbGmITy0fchO5DRfAHqexL.zWHLBGHRZrFMZZ.qn7D1erunS9qEkg0lgKPd_fqQHZjpcbIWFQSAn741H_gtjUguLSxGMsVAkBA
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/cbkfw5lf0x3h_web-library.net.json
+COOKIES-FILE: account/browser_state/cbkfw5lf0x3h_web-library.net.json
+SESSION-FILE: account/browser_state/cbkfw5lf0x3h_web-library.net.json
+----------------------------------------
