@@ -1,0 +1,12 @@
+Email: o681sj2qn68k@web-library.net
+Password: WtUGCtHy!8*RE1
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMTRlNzJlZWItNjk3NC00ZmIyLWJlMjMtNDk3ZmY2ZTRkOGMxIn0.8sM-WMx8z8O4B5kNQOFWI7ZjNBJz-OaxxCYevj27W8I
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiMTRlNzJlZWItNjk3NC00ZmIyLWJlMjMtNDk3ZmY2ZTRkOGMxIn0.8sM-WMx8z8O4B5kNQOFWI7ZjNBJz-OaxxCYevj27W8I
+X-USERID: 14e72eeb-6974-4fb2-be23-497ff6e4d8c1
+CF-CLEARANCE: TlSzgR8ca.EwcYis7ENTrZCbcYxcfmNmmprP6JFHwrA-1783218199-1.2.1.1-lYxT4TFL0udaf8WL75h1XGz6fsJw8bxLac0mkCvWeVd41ZsRK.Qg1UMWq.2XGpLZPI5rmxkH5FvH7ZJUQnt10P9e1UZ_hcY1fCZHeI9Ek8TJLDOUICfOjEx3JURKjaqdFv4oQthgLwj8vnVtPVt3iQ29KQzgoQ410hP4UpoQHyuXX9WW5YbZSwbOzDhkQYARp0DJ0gr0FLK5ZQLqzet.TEndEYq1sVUsETUy6Zr58iR8PaqwCMfI6zkf46nd3CbXt5O9XT.ZszXdKFak_allHwG2yvEmwG1fKaKXt6BQ4Y_x0tJt7l7e1gxi77BLtxW3aIqvaB8FjJJNALaHQY_1ag
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/o681sj2qn68k_web-library.net.json
+COOKIES-FILE: account/browser_state/o681sj2qn68k_web-library.net.json
+SESSION-FILE: account/browser_state/o681sj2qn68k_web-library.net.json
+----------------------------------------
