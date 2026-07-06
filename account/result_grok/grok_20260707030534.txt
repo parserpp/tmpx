@@ -1,0 +1,12 @@
+Email: b22k1h3pzgpy@web-library.net
+Password: LIpCbF1$JdEYoV
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZmU5NzZiY2YtOTU2OC00NTVkLTk0MjEtMzI5YjEwYjJkMzZmIn0.-Ro1dIOq-DYSQNt3F4w0aWSxbAIPVQvbX2rq6Pv3B0Y
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiZmU5NzZiY2YtOTU2OC00NTVkLTk0MjEtMzI5YjEwYjJkMzZmIn0.-Ro1dIOq-DYSQNt3F4w0aWSxbAIPVQvbX2rq6Pv3B0Y
+X-USERID: fe976bcf-9568-455d-9421-329b10b2d36f
+CF-CLEARANCE: w6V2WYijqT9yClMULfnhYaAA85ixf7HXoKkygccM.6A-1783365138-1.2.1.1-wQt4fELhlVrafe.oD8EyMaGoJ8yVaGWt1qQkSycCJmevdO30I2YtaNCGt10C7gsYuWpp7Upl.pWBYuK5F1pyOgSg3LyrxEYno.Po7r0q7wCJ4QwYOl.pzLPE8fIpDIiB_uyhaHYnqF7BhNoWO.8_uC95OWE26XB0zexgA1P7HD3HY6dfyJ81Iypbziha4CrffCCnie5lUGJwajpVN99vuQ_4fb3Bf_Uctb13gHHZlqM5W2AzBnaK8pA9sbwTAkwxX0U.DPK9emLx1AKu80i9MDe0O7jQoaRuM45co_ShZcKUw62zjvvzNITmbyecT7BwA0vGcI44k38GvlSiaADgZQ
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/b22k1h3pzgpy_web-library.net.json
+COOKIES-FILE: account/browser_state/b22k1h3pzgpy_web-library.net.json
+SESSION-FILE: account/browser_state/b22k1h3pzgpy_web-library.net.json
+----------------------------------------
