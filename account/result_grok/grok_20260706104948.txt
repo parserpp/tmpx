@@ -1,0 +1,12 @@
+Email: sbueb2798xaa@web-library.net
+Password: BMSSom9F%1O6Iw
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiN2Q0OTYyZmMtZDRhNy00ZWIzLTkxMWItMGQwYzFhNGM2YTQ2In0.8bWGrpajTElKJNDci4y5uNBQi4k9Ys4ytu1tHq6jmLw
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiN2Q0OTYyZmMtZDRhNy00ZWIzLTkxMWItMGQwYzFhNGM2YTQ2In0.8bWGrpajTElKJNDci4y5uNBQi4k9Ys4ytu1tHq6jmLw
+X-USERID: 7d4962fc-d4a7-4eb3-911b-0d0c1a4c6a46
+CF-CLEARANCE: omU5VN95xkGM6ruTdIwi0lDju4vVmPaeZo7yiWvyub8-1783306219-1.2.1.1-8VwkgtMcuYD9Pzvtu8KJRw.9vaxN.F4YGC9LpxmresluvjpqaYQTBreI50rfwjWSUjkfOUa0VwV4oMas.pf3tbAOKkIxyGnGk.iB9nC1C3AmleM.IKmQNolDSel.i7kIUO5gze.T80evXPUUx7htir2bAleWhtFjgRpD3LyDi487R3HpRQ_T0Gh7Q.l9afmxxF0VVUXDN3wJWMSSy1cUvDWXZslyRjcZm5CD.4QtrOeig1PTzpfhs2qBdEFHTVcbc7Of3JA2CGYPpAeQSD71Cq.2A6jp.kWd8QfaWiinVx5qQNv6BFJK2E6y9N9Rq8xLIbZ24xDG7ZUexUL4WFJvjg
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/sbueb2798xaa_web-library.net.json
+COOKIES-FILE: account/browser_state/sbueb2798xaa_web-library.net.json
+SESSION-FILE: account/browser_state/sbueb2798xaa_web-library.net.json
+----------------------------------------
