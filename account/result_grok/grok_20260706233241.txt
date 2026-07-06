@@ -1,0 +1,12 @@
+Email: zprpz93ekx64@web-library.net
+Password: v3L%0viR$HIt*O
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNDM5MGZhYmItNmI4Yy00ODhiLWIzOGEtMGYwNDExMDgwZGMyIn0.a_lBb_AkBHFjXycFrCTMnoqOcU2-_wQK5V7rNxikjFI
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiNDM5MGZhYmItNmI4Yy00ODhiLWIzOGEtMGYwNDExMDgwZGMyIn0.a_lBb_AkBHFjXycFrCTMnoqOcU2-_wQK5V7rNxikjFI
+X-USERID: 4390fabb-6b8c-488b-b38a-0f0411080dc2
+CF-CLEARANCE: Bzow4OfvLNfZsAal8OBin1_1j1VcFUNKLzsd9CpGpOc-1783353393-1.2.1.1-iPn9Mawo.aLpA03CcfbzFwskzSUVJ3qVAxgohBz2deI3kj3PugIld0H0qcBHr3ppF588uAPkf5JncXf.O2bBZVsEwjkAijzxQxxdVFUPLLZ2SHfniFnGWzgY319wCUUIw_PEmv9suVkD7giToHbusPqAAWLX3XgoxFmGRrhkUSVDbRb6NP.ZSAuntEV8xcGb46b06o3PMn_eyLSZiRbxCGTlz5CYd88_vnxkTdGUXbKiXYpFMJJfab6oM8NwHbxZYdPqOpX2VdbdHDDnCWYp1sWyqgnE_Ygr3dtIW.teMmqUoGsdVYmgFOhsSSjR8rCipAzeFBMUUW_ahDxOGQRqAw
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/zprpz93ekx64_web-library.net.json
+COOKIES-FILE: account/browser_state/zprpz93ekx64_web-library.net.json
+SESSION-FILE: account/browser_state/zprpz93ekx64_web-library.net.json
+----------------------------------------
