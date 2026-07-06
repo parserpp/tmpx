@@ -1,0 +1,12 @@
+Email: 9kj2lz89368n@web-library.net
+Password: Lv#&aqL2OwuoJi
+SSO: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiN2EwMzJhNjMtOWIxNC00NzEwLTkwYzYtNGMyY2QzZGMwOTFkIn0.dJyc0-LYTjLP4KL3aQ8SFtEVNcwyviWLrjuUmX-wnNE
+SSO-RW: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzZXNzaW9uX2lkIjoiN2EwMzJhNjMtOWIxNC00NzEwLTkwYzYtNGMyY2QzZGMwOTFkIn0.dJyc0-LYTjLP4KL3aQ8SFtEVNcwyviWLrjuUmX-wnNE
+X-USERID: 7a032a63-9b14-4710-90c6-4c2cd3dc091d
+CF-CLEARANCE: FUq1diBBVRELp8vcVWWy4.8B9qL5591S8hTIURbklRg-1783358943-1.2.1.1-4dEF4XqlMRtMmxYy3ma3vFcgUbLFrUwuK9zJyTXfQ2djwZ.R4ydxM037s4iLpFVXPJNEApHZ4OFt6hOOyDvN8QhXE72W7jYDcLRzZ1R1VW.a6fnUeCQh.Y8Z5cgQzDHqDlNUA0ugeuOEfRstZM0mp257kVEbHBVZMO_a_Tr78RaxeOzxOSCRLn51_YCbdE31Oj6QM4wKdMKPcH6Ne9_LpPjyBVMGqIh9F5u9.LxIx_dXPhrC7L3J6gcS7lzeAqm4pRu_4RBEEvGusEuVWuBlsWEjTlJgvVZzix4Nabo52jg5OeV00_a9gegTWhsbrinTku.DSuupMnSVqS7llSmpPQ
+TOS-OK: True
+NSFW-OK: True
+STORAGE-STATE: account/browser_state/9kj2lz89368n_web-library.net.json
+COOKIES-FILE: account/browser_state/9kj2lz89368n_web-library.net.json
+SESSION-FILE: account/browser_state/9kj2lz89368n_web-library.net.json
+----------------------------------------
